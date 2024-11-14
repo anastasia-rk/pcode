@@ -1,0 +1,16 @@
+name: templateEnv
+channels:
+  - rothnic
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - matplotlib2tikz
+  - pandas
+  - tqdm
+  - seaborn
+  - numpy
+  - corner
+  - scipy
+  - matplotlib
+prefix: /opt/anaconda3/envs/templateEnv
